@@ -1,0 +1,13 @@
+{
+  "name": "audio-mono-fix",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fixing left-channel only inputs, duplicating to all channels.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Matt (IPv4) Cowley",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "naudiodon": "^2.3.6"
+  }
+}
